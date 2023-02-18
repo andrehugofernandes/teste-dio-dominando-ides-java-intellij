@@ -13,6 +13,8 @@ public class Gato {
         this.idade = idade;
     }
 
+
+
     public String getCor() {
         return cor;
     }
