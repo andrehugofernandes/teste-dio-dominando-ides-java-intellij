@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="82ee0bce-0994-4a64-ab0c-fbe188761627" name="Changes" comment="Criando class Livro" />
+    <list default="true" id="82ee0bce-0994-4a64-ab0c-fbe188761627" name="Changes" comment="Ajsutando o construtor da class Gato">
+      <change afterPath="$PROJECT_DIR$/src/br/com/dio/calculadora/Calculadora.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -43,7 +46,20 @@
     "RunOnceActivity.ShowReadmeOnStart": "true"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Calculadora">
+    <configuration name="Calculadora" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.dio.calculadora.Calculadora" />
+      <module name="primeiro-projeto-intellij" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.dio.calculadora.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="PrimeiroPrograma" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="br.com.dio.PrimeiroPrograma" />
       <module name="primeiro-projeto-intellij" />
@@ -59,6 +75,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Calculadora" />
         <item itemvalue="Application.PrimeiroProgramaJava" />
       </list>
     </recent_temporary>
@@ -93,13 +110,32 @@
       <option name="project" value="LOCAL" />
       <updated>1676738617300</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Ajsutando o construtor da class Gato">
+      <created>1676738923495</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1676738923495</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="First commit" />
     <MESSAGE value="UI Designer commit" />
     <MESSAGE value="Criando class Livro" />
-    <option name="LAST_COMMIT_MESSAGE" value="Criando class Livro" />
+    <MESSAGE value="Ajsutando o construtor da class Gato" />
+    <option name="LAST_COMMIT_MESSAGE" value="Ajsutando o construtor da class Gato" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/br/com/dio/calculadora/Calculadora.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
